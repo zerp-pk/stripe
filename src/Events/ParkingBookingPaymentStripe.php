@@ -3,7 +3,7 @@
 namespace Zerp\Stripe\Events;
 
 use Illuminate\Foundation\Events\Dispatchable;
-use Workdo\ParkingManagement\Models\ParkingBooking;
+use Zerp\ParkingManagement\Models\ParkingBooking;
 
 class ParkingBookingPaymentStripe
 {

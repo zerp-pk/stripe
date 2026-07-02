@@ -1,6 +1,6 @@
 {
     "name": "zerp/stripe",
-    "description": "Description for stripe package",
+    "description": "Stripe payment gateway integration module for the Zerp ERP platform",
     "type": "library",
     "license": "MIT",
     "require": {},

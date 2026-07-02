@@ -3,7 +3,7 @@
 namespace Zerp\Stripe\Events;
 
 use Illuminate\Foundation\Events\Dispatchable;
-use Workdo\LaundryManagement\Models\LaundryRequest;
+use Zerp\LaundryManagement\Models\LaundryRequest;
 
 class LaundryBookingPaymentStripe
 {

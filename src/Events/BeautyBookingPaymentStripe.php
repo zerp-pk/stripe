@@ -3,7 +3,7 @@
 namespace Zerp\Stripe\Events;
 
 use Illuminate\Foundation\Events\Dispatchable;
-use Workdo\BeautySpaManagement\Models\BeautyBooking;
+use Zerp\BeautySpaManagement\Models\BeautyBooking;
 
 class BeautyBookingPaymentStripe
 {
