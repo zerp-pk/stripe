@@ -13,13 +13,13 @@ Stripe module for the [Zerp](https://github.com/zerp-pk) ERP platform. Stripe pa
 composer require zerp/stripe
 ```
 
-The package auto-registers via Laravel's package discovery — no manual service provider registration needed.
+The package auto-registers via Laravel's package discovery - no manual service provider registration needed.
 
 ## What it provides
 
-- `Zerp\Stripe\Providers\StripeServiceProvider` — boots this module's routes, migrations, and settings
+- `Zerp\Stripe\Providers\StripeServiceProvider` - boots this module's routes, migrations, and settings
 - Frontend pages/components under `src/Resources/js`
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT - see [LICENSE](LICENSE).
